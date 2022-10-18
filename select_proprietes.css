@@ -1,0 +1,23 @@
+.first {
+	background-color: orange;
+	list-style-type: circle;
+	font-family: Comic Sans Ms;
+}
+
+.first li {
+	text-decoration: underline;
+	font-style: 
+}
+
+.first #item2 {
+	font-weight: bold;
+}
+
+.second {
+	list-style-type: none;
+
+}
+
+.second li {
+	text-decoration: line-through;
+}

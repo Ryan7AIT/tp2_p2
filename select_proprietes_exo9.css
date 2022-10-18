@@ -1,0 +1,54 @@
+html {
+	font-size: 10px;
+}
+
+div {
+	font-size: 12px
+}
+
+#id1 {
+	font-size: 10px
+}
+
+#id2 {
+	font-size: 7.5pt
+}
+
+
+#id3 {
+	font-size: 2em
+}
+
+#id1 {
+	font-size: 2rem
+}
+
+/*exo 10: alignement*/
+
+
+#id2 {
+	text-align: center;
+}
+
+#id3 {
+	text-align: right;
+}
+
+/*exo 11: bordure*/
+
+#id1 {
+	border: 1px solid;
+}
+
+#id2 {
+	border:  solid 
+}
+
+
+#id3 {
+	border:  dotted black;
+}
+
+#id4 {
+	border:  dotted red;
+}
